@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Ronan Ramos</h1>
 <h3 align="center">Hobbyist Programmer</h3>
-<img align="right" alt="CodingUwU" width="400" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
+<img align="right" alt="CodingUwU" width="390" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roonaaan&label=Profile%20views&color=0e75b6&style=flat" alt="roonaaan" /> </p>
